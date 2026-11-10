@@ -1,0 +1,6 @@
+{
+  "name": "Deepanita",
+  "description": "DEEPANITA (দীপানিতা) - Personal AI Voice Assistant created by Siddhartha Mojumdar with sweet female voice, online/offline intelligence, and phone controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
